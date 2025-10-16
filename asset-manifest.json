@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VishwasriTechEvent/static/css/main.eb101fc0.css",
-    "main.js": "/VishwasriTechEvent/static/js/main.5ca3938f.js",
+    "main.js": "/VishwasriTechEvent/static/js/main.a18fdf56.js",
     "static/js/453.f4fcea69.chunk.js": "/VishwasriTechEvent/static/js/453.f4fcea69.chunk.js",
     "static/media/bg.png": "/VishwasriTechEvent/static/media/bg.c7f27be67381c5fdeb39.png",
     "static/media/phn.png": "/VishwasriTechEvent/static/media/phn.8a01557c759deda4b0cd.png",
@@ -26,11 +26,11 @@
     "static/media/whatsapp.png": "/VishwasriTechEvent/static/media/whatsapp.63a6169f71ee1c025545.png",
     "index.html": "/VishwasriTechEvent/index.html",
     "main.eb101fc0.css.map": "/VishwasriTechEvent/static/css/main.eb101fc0.css.map",
-    "main.5ca3938f.js.map": "/VishwasriTechEvent/static/js/main.5ca3938f.js.map",
+    "main.a18fdf56.js.map": "/VishwasriTechEvent/static/js/main.a18fdf56.js.map",
     "453.f4fcea69.chunk.js.map": "/VishwasriTechEvent/static/js/453.f4fcea69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb101fc0.css",
-    "static/js/main.5ca3938f.js"
+    "static/js/main.a18fdf56.js"
   ]
 }
